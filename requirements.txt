@@ -1,0 +1,6 @@
+click
+pandas
+tabulate
+termcolor 
+pyfiglet
+datetime
